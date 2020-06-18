@@ -15,7 +15,7 @@
 <body>
 <div class="topbar">
     <div>
-        <h1>Cadastro de Enquete</h1>
+        <h1>Cadastro de Enquetes</h1>
     </div>
 </div>
 
